@@ -6,7 +6,7 @@ import MovieCard from "./MovieCard";
 
 //  6829806b
 // my API url
-const API_URL = "http://www.omdbapi.com?apikey=6829806b";
+const API_URL = "https://www.omdbapi.com?apikey=6829806b";
 
 const App = () => {
   const [movies, setMovies] = useState([]);
